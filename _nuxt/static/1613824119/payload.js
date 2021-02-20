@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/", {data:[{}],fetch:{"0":{image:{url:"https:\u002F\u002Fcdn.nekos.life\u002Fwallpaper\u002Fnas8ant1xqA.jpg"}}},mutations:void 0});
