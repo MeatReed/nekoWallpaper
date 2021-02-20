@@ -3,6 +3,7 @@
     <v-row>
       <v-col align="center">
         <v-btn @click="reload">Reload</v-btn>
+        <v-btn :href="image.url" target="__blank">Download</v-btn>
       </v-col>
     </v-row>
     <v-row v-if="!$fetchState.pending">
